@@ -17,4 +17,4 @@ Estudante de Ciências da Computação e desenvolvedor em formação, com experi
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/davi/](https://www.linkedin.com/in/davi-menezes-dev/))
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/davi-menezes-dev/)
