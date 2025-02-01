@@ -9,7 +9,7 @@ Estudante de Ciências da Computação e desenvolvedor em formação, com experi
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davziinn&repo=eFood&theme=dark)](https://github.com/davigithub/eFood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davziinn&repo=CartorioEbac&theme=dark)](https://github.com/davigithub/eFood)
 
 ### Linguagens utilizadas
 
