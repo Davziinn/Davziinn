@@ -1,7 +1,16 @@
 ### Olá 👋
 
 ###### Sobre o Davi
-Estudante de Ciências da Computação e desenvolvedor em formação, com experiência em React, Java, MySQL e desenvolvimento full-stack. Apaixonado por tecnologia e soluções inovadoras.
+🎓 Estudante de Ciências da Computação | 💻 Desenvolvedor Full-Stack em formação
+🚀 Apaixonado por tecnologia, inovação e por transformar ideias em soluções reais.
+
+Tenho experiência prática com React, Java, MySQL e integração de APIs — criando desde interfaces modernas até lógicas robustas de back-end.
+Atualmente mergulhado em projetos que combinam desempenho, usabilidade e escalabilidade, sempre buscando aprender algo novo a cada linha de código.
+
+🛠️ Foco constante em evoluir como desenvolvedor e construir projetos que façam a diferença.
+📈 Aberto a oportunidades, colaborações e desafios que me tirem da zona de conforto.
+
+“Código limpo, propósito claro e impacto real.”
 
 ### Detalhes
 
