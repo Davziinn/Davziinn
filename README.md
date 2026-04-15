@@ -1,29 +1,47 @@
 ### Olá 👋
 
-###### Sobre o Davi
-🎓 Estudante de Ciências da Computação | 💻 Desenvolvedor Full-Stack em formação
-🚀 Apaixonado por tecnologia, inovação e por transformar ideias em soluções reais.
+## Sobre mim
+🎓 Estudante de Ciência da Computação (UNIFOR)  
+💻 Desenvolvedor com foco em back-end (Java + Spring Boot) e experiência em front-end com React  
 
-Tenho experiência prática com React, Java, MySQL e integração de APIs — criando desde interfaces modernas até lógicas robustas de back-end.
-Atualmente mergulhado em projetos que combinam desempenho, usabilidade e escalabilidade, sempre buscando aprender algo novo a cada linha de código.
+Atualmente atuo como estagiário na área de tecnologia, desenvolvendo soluções que envolvem integração de APIs, organização de sistemas e melhoria de fluxos internos.
 
-🛠️ Foco constante em evoluir como desenvolvedor e construir projetos que façam a diferença.
-📈 Aberto a oportunidades, colaborações e desafios que me tirem da zona de conforto.
+Tenho experiência prática na construção de aplicações completas, trabalhando desde a modelagem de dados até a implementação de interfaces, sempre com foco em código limpo, organização e escalabilidade.
 
-“Código limpo, propósito claro e impacto real.”
+🚀 Principais habilidades:
+- Desenvolvimento de APIs REST com Java e Spring Boot  
+- Integração com bancos de dados (MySQL/PostgreSQL)  
+- Construção de interfaces com React + TypeScript  
+- Consumo e integração de APIs  
+- Estruturação de projetos e boas práticas  
 
-### Detalhes
+🧠 Atualmente focado em:
+- Arquitetura de microsserviços  
+- Boas práticas de back-end (clean code, DTOs, camadas)  
+- Evolução contínua como desenvolvedor  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davziinn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+📈 Buscando oportunidades para crescer como desenvolvedor back-end e trabalhar em projetos que gerem impacto real.
 
-### Projetos
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Davziinn&repo=curso_ebac_front_end_exercicio_modulo_35&theme=dark)](https://github.com/davigithub/eFood)
+## 📊 Estatísticas
 
-### Linguagens utilizadas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davziinn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davziinn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### Contatos
+## 🚀 Projetos em destaque
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/davi-menezes-dev/)
+[![Projeto eFood](https://github-readme-stats.vercel.app/api/pin/?username=Davziinn&repo=curso_ebac_front_end_exercicio_modulo_35&theme=dark)](https://github.com/davigithub/eFood)
+
+---
+
+## 🧠 Tecnologias mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davziinn&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Menezes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-menezes-dev/)
